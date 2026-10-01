@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0007-reverse-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |
