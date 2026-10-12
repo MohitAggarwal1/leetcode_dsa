@@ -1,26 +1,35 @@
-#include <unordered_map>
-#include <string>
-using namespace std;
-
 class Solution {
 public:
     int romanToInt(string s) {
-        unordered_map<char, int> roman = {
-            {'I',1}, {'V',5}, {'X',10}, {'L',50},
-            {'C',100}, {'D',500}, {'M',1000}
-        };
-        
-        int result = 0;
-        for (int i = 0; i < s.size(); ++i) {
-            int curr = roman[s[i]];
-            int next = (i+1 < s.size()) ? roman[s[i+1]] : 0;
-            
-            if (curr < next) {
-                result -= curr;
+        int result{0};
+        size_t length = s.length();
+
+
+        for (int i = 0; i<length - 1; ++i) {
+            unsigned int currentValue = value(s[i]);
+            unsigned int nextValue = value(s[i+1]);
+
+            if(currentValue<nextValue) {
+                result -= currentValue;
             } else {
-                result += curr;
+                result += currentValue;
             }
         }
-        return result;
+
+        return result + value(s[length - 1]);
+    }
+private:
+    int value(char c)
+    {
+        switch (c) {
+        case 'I': return 1;
+        case 'V': return 5;
+        case 'X': return 10;
+        case 'L': return 50;
+        case 'C': return 100;
+        case 'D': return 500;
+        case 'M': return 1000;
+    }
+    return 0;
     }
 };
