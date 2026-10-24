@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0018-4sum) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0018-4sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0018-4sum) |
 | [1096-brace-expansion-ii](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
