@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0018-4sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0013-roman-to-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
