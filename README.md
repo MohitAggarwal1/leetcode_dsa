@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/MohitAggarwal1/leetcode_dsa/tree/master/1254-number-of-closed-islands) |
